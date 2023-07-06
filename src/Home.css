@@ -1,0 +1,23 @@
+.main-div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .sub-div {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background: black;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .img-div {
+    width: 50%;
+  }
+  
+  .details-div {
+    width: 50%;
+  }
+  
